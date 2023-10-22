@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashuu1102
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Software Development projects or backend projects
+- 👀 I’m interested in Frontend development
+- 🌱 My technical stack consist of HTML5,CSS,JavaScript,jQuery and React.
+- 💞️ I’m looking to collaborate on Frontend Development projects or backend projects
 - 📫 You can reach me here https://www.linkedin.com/in/ashutosh-sharma-7962b3200. This is my linkedin profile.
 
 
